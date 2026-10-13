@@ -3,3 +3,8 @@
 
 //Bestämd Ålder 
 let age = 29;
+
+//Om åldern är under 18 - körs "BARN"
+if (age < 18) {
+    console.log("BARN")
+} 
