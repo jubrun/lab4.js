@@ -12,3 +12,7 @@ console.log("Antal: " + amount)
 // Den totala summan
 let total = price * amount;
 console.log("Totalt: " + total + " kr");
+
+// Det totala ink. 25% moms
+let totalwithvat = total * 1.25;
+console.log("Totalt inklusive moms: " + totalwithvat + " kr")
