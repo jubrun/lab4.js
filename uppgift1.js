@@ -1,3 +1,4 @@
+/* Uppgift 1, JavaScript. Av Julia Brunius, okt. 2026  */
 "use strict";
 
 //För och efternamn
