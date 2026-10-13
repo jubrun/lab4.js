@@ -14,6 +14,6 @@ let age = 87;
 console.log("Ålder: " + age);
 
 //Student?
-let isStudent = "false"
+let isStudent = "false";
 
-console.log ("Student: " + isStudent)
+console.log ("Student: " + isStudent);
