@@ -6,3 +6,8 @@ let lastName = "Hällström";
 let fullName = firstName + " " + lastName;
 
 console.log(fullName);
+
+//Ålder
+let age = 87;
+
+console.log("Ålder: " + age);
