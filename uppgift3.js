@@ -14,3 +14,8 @@ else if (age >= 65 ) {
     console.log("PENSIONÄR")
 } 
 
+//Om åldern varken är under 18 eller över 65, - körs "VUXEN"
+else {
+    console.log("VUXEN")
+}
+
