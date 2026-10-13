@@ -11,3 +11,8 @@ console.log(fullName);
 let age = 87;
 
 console.log("Ålder: " + age);
+
+//Student?
+let isStudent = "false"
+
+console.log ("Student: " + isStudent)
