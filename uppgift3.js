@@ -19,3 +19,4 @@ else {
     console.log("VUXEN")
 }
 
+// I det här fallet kommer min valda ålder av 29 resultera i "VUXEN"
