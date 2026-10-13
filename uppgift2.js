@@ -8,3 +8,7 @@ console.log("Pris: " + price + " kr")
 // Antalet
 let amount = 4 
 console.log("Antal: " + amount)
+
+// Den totala summan
+let total = price * amount;
+console.log("Totalt: " + total + " kr");
