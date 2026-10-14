@@ -6,4 +6,6 @@ let dishes = ["Spaghetti Carbonara", "Våfflor med Vaniljglass", "Halloumiburgar
 // 1. Skriver ut hela arrayen med alla maträtter
 console.log(dishes);
 
+// 2. Första elementet (maträtten) i arrayen     
+console.log(dishes[0]);
 
