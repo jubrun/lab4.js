@@ -18,4 +18,5 @@ dishes.push("Sushi");
 // 5. Tar bort den första maträtten i arrayen
 dishes.shift();
 
-
+// 6. Skriver ut hela arrayen igen, efter gjorda förändringar
+console.log(dishes);
