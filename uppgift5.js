@@ -3,3 +3,7 @@
 
 let dishes = ["Spaghetti Carbonara", "Våfflor med Vaniljglass", "Halloumiburgare", "Fisk-tacos", "Hemmagjord Pizza", "Ceasarsallad" ]
 
+// 1. Skriver ut hela arrayen med alla maträtter
+console.log(dishes);
+
+
