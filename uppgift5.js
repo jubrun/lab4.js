@@ -9,3 +9,7 @@ console.log(dishes);
 // 2. Första elementet (maträtten) i arrayen     
 console.log(dishes[0]);
 
+// 3. Sista elementet (maträtten) i arrayen
+console.log(dishes[dishes.length-1]);
+
+
