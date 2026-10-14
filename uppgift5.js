@@ -12,4 +12,7 @@ console.log(dishes[0]);
 // 3. Sista elementet (maträtten) i arrayen
 console.log(dishes[dishes.length-1]);
 
+// 4. Lägger till en ny maträtt ("Sushi") sist i arrayen
+dishes.push("Sushi");
+
 
