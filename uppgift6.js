@@ -11,3 +11,7 @@ function calculateArea(width, height) {
     return area;   
 }
 
+//Resultaten av tre anrop med olika värden
+console.log("Arean är " + calculateArea (5,4));
+console.log("Arean är " + calculateArea (6,9));
+console.log("Arean är " + calculateArea (12,20));
