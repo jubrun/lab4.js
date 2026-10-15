@@ -6,4 +6,8 @@ function calculateArea(width, height) {
 
      //Uträkningen hur man beräknar arean
     let area = width * height;   
+
+    // Returnerar resultatet
+    return area;   
 }
+
