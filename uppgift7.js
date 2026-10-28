@@ -11,4 +11,10 @@ function totalSum(arr) {
     // Skapar en variabel för summan med startvärdet 0
     let sum = 0;
 
+    // Här börjar for-loopen som går igenom arrayens innehåll
+    for (let i = 0; i < arr.length; i++){
+
+        // Delen av loopen som adderar alla talen till en summa
+        sum += arr[i];
+    }
 }
