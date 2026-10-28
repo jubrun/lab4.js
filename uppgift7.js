@@ -20,3 +20,6 @@ function totalSum(arr) {
     // Funktionen returnerar summan
     return sum;
 }
+
+// Anropar funktionen med arrayen som argument
+let total = totalSum(numbers);
