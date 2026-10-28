@@ -20,3 +20,6 @@ function printBookInfo(book) {
     console.log("Svensk titel: " + book.swedishtitle);
     console.log("Svensk översättare: " + book.swedishtranslator);
 }
+
+// Anpropar funktionen och skriver ut information om boken
+printBookInfo(myBook);
