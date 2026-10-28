@@ -23,3 +23,6 @@ function totalSum(arr) {
 
 // Anropar funktionen med arrayen som argument
 let total = totalSum(numbers);
+
+// Skriver ut resultatet
+console.log ("Summan är " + total);
