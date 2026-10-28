@@ -9,5 +9,14 @@ const myBook = {
     country: "Ireland",
     swedishtitle: "Där regnbågen slutar",
     swedishtranslator: "Johanna Svartström"
+}
 
+// Funktionen som tar emot mitt bokobjekt & strukturerar upp dess egenskaper
+function printBookInfo(book) {
+    console.log("Originaltitel: " + book.originaltitle);
+    console.log("Författare: " + book.author);
+    console.log("Utgivningsår: " + book.year);  
+    console.log("Utgivningsland: " + book.country);
+    console.log("Svensk titel: " + book.swedishtitle);
+    console.log("Svensk översättare: " + book.swedishtranslator);
 }
