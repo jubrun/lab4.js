@@ -29,3 +29,12 @@ const people = [
     city: "Växjö"
 }
 ];
+
+// En funktion som skriver ut information om varje person: namn, stad och om den är myndig eller ej
+function logPerson(person){
+    if (person.age >= 18 ) {
+        console.log(person.name + " bor i " + person.city + " och är myndig");
+    } else {
+        console.log(person.name + " bor i " + person.city + " och är inte myndig");
+}
+}
