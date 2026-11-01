@@ -38,3 +38,6 @@ function logPerson(person){
         console.log(person.name + " bor i " + person.city + " och är inte myndig");
 }
 }
+
+// Går igenom arrayen med en forEach-loop och anropar funktionen logPerson
+people.forEach(logPerson);
