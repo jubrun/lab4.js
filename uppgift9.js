@@ -39,5 +39,16 @@ function logPerson(person){
 }
 }
 
+/*
+// Testade även att göra samma funktion som ovan fast istället med template literals
+function logPerson(person){
+    if (person.age >= 18 ) {
+        console.log(`${person.name} bor i ${person.city} och är myndig`);
+    } else {
+        console.log(`${person.name} bor i ${person.city} och är inte myndig`);
+}
+}
+*/
+
 // Går igenom arrayen med en forEach-loop och anropar funktionen logPerson
 people.forEach(logPerson);
